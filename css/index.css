@@ -1,0 +1,1518 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 0.875em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.bio .container {
+  position: absolute;
+  top: 167px;
+  left: 13.4361111111%;
+  z-index: 9;
+  width: 35.7638888888%;
+  height: 210px;
+}
+
+.bio .text {
+  color: rgb(0, 0, 0);
+}
+
+.botones {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 36;
+  width: 100.09765625%;
+  height: 72px;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 0);
+}
+
+.container .deezer {
+  display: block;
+  top: 9px;
+  left: -0.0381097561%;
+  z-index: 47;
+  width: 41px;
+  height: auto;
+  overflow: hidden;
+}
+
+.container .facebook {
+  display: block;
+  top: 9px;
+  left: 0.800304878%;
+  z-index: 43;
+  width: 41px;
+  height: auto;
+  overflow: hidden;
+}
+
+.container .instagram {
+  display: block;
+  top: 12px;
+  left: 0;
+  z-index: 39;
+  width: 41px;
+  height: auto;
+  overflow: hidden;
+}
+
+.container .spotify {
+  display: block;
+  top: 9px;
+  left: 0;
+  z-index: 45;
+  width: 41px;
+  height: auto;
+  overflow: hidden;
+}
+
+.container .youtube {
+  display: block;
+  top: 9px;
+  left: 0.7621951219%;
+  z-index: 41;
+  width: 41px;
+  height: auto;
+  overflow: hidden;
+}
+
+.container-videos {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10.0694444444%;
+  z-index: 23;
+  width: 47.9166666666%;
+  height: 410px;
+  margin: auto 0;
+}
+
+.container-videos .wrapper {
+  width: 42.7830615942%;
+  height: 163px;
+  overflow: hidden;
+}
+
+.contieneboton {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 35;
+  width: 52.6890243902%;
+  height: 48px;
+  margin: -54px 0 0 37.1620599999%;
+}
+
+.contieneboton .bio {
+  display: block;
+  width: 21.5455387107%;
+  height: 26px;
+  margin: 10px 0 0 2.8062999999%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 0.857em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.contieneboton .eventos {
+  display: block;
+  width: 21.5455387107%;
+  height: 26px;
+  margin: -26px 0 0 70.83428%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 0.857em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.contieneboton .musica {
+  display: block;
+  z-index: 32;
+  width: 21.5455387107%;
+  height: 26px;
+  margin: 10px 0 0 1.88458%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 0.857em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.contieneboton .videos {
+  display: block;
+  z-index: 33;
+  width: 21.5455387107%;
+  height: 26px;
+  margin: -26px 0 0 47.77081%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 0.857em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.bio,
+.eventos {
+  float: left;
+}
+
+.eventos .text {
+  bottom: 165px;
+  left: 0;
+  z-index: 27;
+  width: 35.05859375%;
+  min-height: 55px;
+  font-size: 3.571em;
+  font-weight: 700;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.eventos .wrapper {
+  top: 0;
+  bottom: 0;
+  right: 15.2083333333%;
+  z-index: 28;
+  width: 32.5694444444%;
+  height: 410px;
+  margin: auto 0;
+  overflow: scroll;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 49;
+  width: 100%;
+  height: 65px;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 0);
+  overflow: visible;
+}
+
+.footer .container {
+  top: 0;
+  bottom: 0;
+  width: 4.00390625%;
+  height: 65px;
+  margin: auto 0;
+}
+
+.footer .text {
+  top: 21px;
+  left: 9.9609375%;
+  z-index: 38;
+  width: 46.8383789062%;
+  min-height: 65px;
+  font-size: 1.143em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.foto {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 400px;
+  margin: auto 0;
+  background-image: url('../images/1.2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.icono {
+  position: relative;
+  float: left;
+  z-index: 30;
+  width: 32.7153429465%;
+  height: 68px;
+  margin-left: 6.48347%;
+  background: url('../images/icon.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.inicio {
+  position: relative;
+  float: left;
+  z-index: 6;
+  width: 79.98046875%;
+  height: 397px;
+  margin: 166px 0 0 9.96094%;
+}
+
+.deezer,
+.facebook,
+.instagram,
+.spotify,
+.youtube {
+  position: absolute;
+}
+
+.musica {
+  position: relative;
+  float: left;
+}
+
+.musica .text {
+  bottom: 190px;
+  left: 0;
+  z-index: 13;
+  width: 35.05859375%;
+  min-height: 55px;
+  font-size: 3.571em;
+  font-weight: 700;
+  text-align: right;
+  color: rgb(0, 0, 0);
+}
+
+.musica .wrapper {
+  overflow: hidden;
+}
+
+.separador1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 7;
+  width: 100%;
+  height: 69px;
+  background-image: url('../images/SEPARADOR.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.separador2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 100%;
+  height: 69px;
+  background-image: url('../images/SEPARADOR.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.separador3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 100%;
+  height: 69px;
+  background-image: url('../images/SEPARADOR.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.separador4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 26;
+  width: 100%;
+  height: 69px;
+  background-image: url('../images/SEPARADOR.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.separador5 {
+  position: relative;
+  z-index: 37;
+  width: 100%;
+  height: 69px;
+  margin: 2514px auto 0;
+  background-image: url('../images/SEPARADOR.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.text {
+  position: absolute;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -0.0667735043%;
+  z-index: 5;
+  width: 57.5091575091%;
+  height: 397px;
+  margin: auto 0;
+}
+
+.video .container {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 57px;
+}
+
+.video .text {
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  font-size: 1.143em;
+  text-align: center;
+}
+
+.video .wrapper {
+  bottom: 41px;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  width: 87.0421974522%;
+  height: 248px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.videos {
+  position: relative;
+  float: left;
+  clear: both;
+}
+
+.videos .text {
+  top: 138px;
+  right: -0.0445312501%;
+  z-index: 18;
+  width: 35.64453125%;
+  min-height: 55px;
+  font-size: 3.571em;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.wrapper {
+  position: absolute;
+}
+
+.bio-2 {
+  position: relative;
+  clear: both;
+  z-index: 11;
+  width: 100%;
+  height: 445px;
+  background-image: url('../images/fondo-bio.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.container-1 {
+  left: 84.8%;
+  z-index: 48;
+}
+
+.container-2 {
+  left: 80.7952880859%;
+  z-index: 46;
+}
+
+.container-3 {
+  left: 76.3671875%;
+  z-index: 44;
+}
+
+.container-4 {
+  left: 72.36328125%;
+  z-index: 42;
+}
+
+.container-5 {
+  left: 68.359375%;
+  z-index: 40;
+}
+
+.eventos-2 {
+  position: relative;
+  clear: both;
+  z-index: 29;
+  width: 100%;
+  height: 410px;
+  background-image: url('../images/fondo-eventos.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.musica-2 {
+  clear: both;
+  z-index: 16;
+  width: 100%;
+  height: 410px;
+  background-image: url('../images/fondo-musica.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+.text-2 {
+  top: 0;
+  z-index: 1;
+  width: 100.3021148036%;
+  min-height: 59px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  top: 57px;
+  z-index: 3;
+  width: 100%;
+  min-height: 33px;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  bottom: 204px;
+  right: 0;
+  z-index: 10;
+  width: 35.64453125%;
+  min-height: 55px;
+  font-size: 3.571em;
+  font-weight: 700;
+}
+
+.text-5 {
+  top: 0;
+  bottom: 0;
+  left: -1.6300970874%;
+  z-index: 8;
+  width: 101.6344772545%;
+  height: 300px;
+  margin: auto 0;
+  font-size: 1em;
+  text-align: justify;
+}
+
+.videos-2 {
+  z-index: 25;
+  width: 100%;
+  height: 410px;
+  background-image: url('../images/fondo-videos-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.wrapper-2 {
+  bottom: 115px;
+  right: 64.37109375%;
+  z-index: 15;
+  width: 19.62890625%;
+  height: 75px;
+}
+
+.wrapper-3 {
+  top: 0;
+  bottom: 0;
+  right: 19.23828125%;
+  z-index: 14;
+  width: 37.79296875%;
+  height: 342px;
+  margin: auto 0;
+}
+
+.wrapper-4 {
+  top: 207px;
+  right: -1.0208129883%;
+  z-index: 24;
+  width: 36.5768432617%;
+  height: 70px;
+  overflow: hidden;
+}
+
+.wrapper-5 {
+  top: 225px;
+  left: 53.924365942%;
+  z-index: 22;
+}
+
+.wrapper-6 {
+  top: 225px;
+  left: 8.9560688405%;
+  z-index: 21;
+}
+
+.wrapper-7 {
+  top: 50px;
+  left: 53.8949275362%;
+  z-index: 20;
+}
+
+.wrapper-8 {
+  top: 50px;
+  left: 8.9560688405%;
+  z-index: 19;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 1.071em;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-1 strong {
+  font-style: normal;
+  font-size: 0.938em;
+  font-weight: inherit;
+  color: #ffffff;
+}
+
+.text-2 span {
+  font-size: 3.125em;
+  font-weight: inherit;
+  color: #ffffff;
+}
+
+.text-3 strong {
+  font-style: normal;
+  font-size: 1.25em;
+  font-weight: inherit;
+  color: rgb(255, 255, 255);
+}
+
+.text-5 span {
+  font-size: 1.071em;
+  font-weight: 700;
+  color: #000000;
+}
+
+.text-5 strong {
+  font-style: inherit;
+  font-size: 1.071em;
+  font-weight: 700;
+  color: inherit;
+}
+
+.text-6 span,
+.text-7 span,
+.text-8 span {
+  font-size: inherit;
+  font-weight: inherit;
+  color: rgb(255, 255, 255);
+}
+
+@media(max-width: 1200px) {
+  .bio .container {
+    top: 123px;
+    left: 13.4369791666%;
+    width: 35.7630208333%;
+  }
+
+  .botones,
+  .footer,
+  .video .wrapper {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .botones .contieneboton {
+    position: relative;
+    z-index: 35;
+    margin-left: 37.16293%;
+  }
+
+  .botones .icono {
+    position: relative;
+    z-index: 30;
+    margin-left: 6.48195%;
+  }
+
+  .container .deezer,
+  .container .facebook,
+  .container .instagram,
+  .container .spotify,
+  .container .youtube {
+    height: auto;
+  }
+
+  .container-videos .wrapper {
+    width: 48.1335952848%;
+  }
+
+  .contieneboton .bio {
+    margin-left: 2.80219%;
+  }
+
+  .contieneboton .eventos {
+    margin-left: 70.83498%;
+  }
+
+  .contieneboton .musica {
+    position: relative;
+    z-index: 32;
+    margin-left: 1.88376%;
+  }
+
+  .contieneboton .videos {
+    position: relative;
+    z-index: 33;
+    margin-left: 47.77059%;
+  }
+
+  .eventos .wrapper {
+    top: 0;
+    bottom: 0;
+    right: 15.25%;
+    width: 32.5833333333%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .footer .container {
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .inicio {
+    position: relative;
+    z-index: 6;
+  }
+
+  .inicio .foto,
+  .inicio .video {
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .musica {
+    position: relative;
+    z-index: 16;
+  }
+
+  .separador1 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .separador2 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .separador3 {
+    position: relative;
+    z-index: 17;
+  }
+
+  .separador4 {
+    position: relative;
+    z-index: 26;
+  }
+
+  .separador5 {
+    position: relative;
+    z-index: 37;
+  }
+
+  .video .text {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos {
+    position: relative;
+    z-index: 25;
+  }
+
+  .videos .container-videos {
+    top: 0;
+    bottom: 0;
+    left: 15.25%;
+    width: 42.4166666666%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .videos .text {
+    right: -0.0833333334%;
+    width: 30.5%;
+  }
+
+  .bio-2 {
+    position: relative;
+    z-index: 11;
+  }
+
+  .container .text-2 {
+    width: 98.5590941259%;
+  }
+
+  .container .text-5 {
+    top: 0;
+    bottom: 0;
+    left: -1.6357646338%;
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .container-videos .wrapper-5 {
+    left: 67.7799607072%;
+    height: 133px;
+  }
+
+  .container-videos .wrapper-7 {
+    left: 67.7799607072%;
+    height: 132px;
+  }
+
+  .container-videos .wrapper-6,
+  .container-videos .wrapper-8 {
+    left: 15.7170923379%;
+    height: 132px;
+  }
+
+  .eventos-2 {
+    position: relative;
+    z-index: 29;
+  }
+
+  .footer .container-2 {
+    left: 80.294921875%;
+  }
+
+  .footer .container-3 {
+    left: 75.7421875%;
+  }
+
+  .footer .container-4 {
+    left: 71.11328125%;
+  }
+
+  .footer .container-5 {
+    left: 66.484375%;
+  }
+
+  .musica .wrapper-3 {
+    top: 0;
+    bottom: 0;
+    right: 15.25%;
+    width: 41.75%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .videos .wrapper-4 {
+    right: -1%;
+    width: 31.4166666666%;
+  }
+
+  .text a,
+  .text-5 span {
+    text-transform: none;
+    text-decoration: none;
+  }
+}
+
+@media(max-width: 800px) {
+  body {
+    font-size: 0.875em;
+  }
+
+  .bio .container {
+    top: 109px;
+    left: 13.4363281249%;
+    width: 35.763671875%;
+  }
+
+  .botones,
+  .footer,
+  .video .wrapper {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .botones .contieneboton {
+    position: relative;
+    z-index: 35;
+  }
+
+  .botones .icono {
+    position: relative;
+    z-index: 30;
+    margin-left: 6.48%;
+  }
+
+  .container .deezer,
+  .container .facebook,
+  .container .instagram,
+  .container .spotify,
+  .container .youtube {
+    height: auto;
+  }
+
+  .contieneboton .bio {
+    margin-left: 2.79969%;
+  }
+
+  .contieneboton .eventos {
+    margin-top: 10px;
+    margin-left: 1.5220499999%;
+  }
+
+  .contieneboton .musica {
+    position: relative;
+    z-index: 32;
+    margin-left: 1.88498%;
+  }
+
+  .contieneboton .videos {
+    position: relative;
+    clear: none;
+    z-index: 33;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .eventos .wrapper,
+  .footer .container,
+  .inicio .foto,
+  .inicio .video,
+  .musica .wrapper-3 {
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .inicio {
+    position: relative;
+    z-index: 6;
+  }
+
+  .musica {
+    position: relative;
+    z-index: 16;
+  }
+
+  .separador1 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .separador2 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .separador3 {
+    position: relative;
+    z-index: 17;
+  }
+
+  .separador4 {
+    position: relative;
+    z-index: 26;
+  }
+
+  .separador5 {
+    position: relative;
+    z-index: 37;
+  }
+
+  .video .text {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos {
+    position: relative;
+    z-index: 25;
+  }
+
+  .videos .container-videos {
+    top: 0;
+    bottom: 0;
+    left: 10%;
+    width: 46%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .videos .text {
+    right: 7.5%;
+    width: 26.25%;
+  }
+
+  .bio-2 {
+    position: relative;
+    z-index: 11;
+  }
+
+  .container .text-2 {
+    width: 99.7367303609%;
+  }
+
+  .container .text-5 {
+    top: 0;
+    bottom: 0;
+    left: -1.6377427882%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .container-videos .wrapper-5 {
+    top: 192px;
+    left: 59.2391304347%;
+    width: 55.9782608695%;
+  }
+
+  .container-videos .wrapper-6 {
+    top: 192px;
+    left: 0;
+    width: 55.7065217391%;
+  }
+
+  .container-videos .wrapper-7 {
+    left: 59.1304347826%;
+    width: 55.9782608695%;
+  }
+
+  .container-videos .wrapper-8 {
+    left: 0;
+    width: 55.7065217391%;
+  }
+
+  .eventos-2 {
+    position: relative;
+    z-index: 29;
+  }
+
+  .videos .wrapper-4 {
+    right: 0.125%;
+    width: 35.375%;
+  }
+
+  .text a,
+  .text-5 span,
+  .text-5 strong {
+    font-size: 0.929em;
+  }
+
+  .text-2 span {
+    font-size: 1.875em;
+    color: rgb(255, 255, 255);
+  }
+}
+
+@media(max-width: 400px) {
+  body {
+    font-size: 0.5em;
+  }
+
+  .bio {
+    height: 352px;
+  }
+
+  .bio .container {
+    top: 68px;
+    left: 13.5%;
+    width: 39.5%;
+  }
+
+  .botones {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .botones .contieneboton {
+    position: relative;
+    clear: none;
+    z-index: 35;
+    margin-top: 14px;
+  }
+
+  .botones .icono {
+    position: absolute;
+    float: none;
+    left: 6.4780487804%;
+    width: 32.7141463414%;
+    margin-left: 0;
+    background-size: contain;
+  }
+
+  .container .deezer {
+    left: -3.0303030304%;
+    width: 30px;
+    height: auto;
+  }
+
+  .container .facebook {
+    top: -2px;
+    left: -11.6129032259%;
+    width: 30px;
+    height: auto;
+  }
+
+  .container .instagram {
+    top: -1px;
+    width: 28px;
+    height: auto;
+  }
+
+  .container .spotify {
+    left: -13.3333333334%;
+    width: 30px;
+    height: auto;
+  }
+
+  .container .youtube {
+    top: -2px;
+    left: -31.25%;
+    width: 30px;
+    height: auto;
+  }
+
+  .container-videos .wrapper {
+    left: 7.8947368421%;
+    width: 52.6315789473%;
+    height: 67px;
+  }
+
+  .contieneboton .bio {
+    margin-left: 2.79239%;
+    font-size: 0.875em;
+  }
+
+  .contieneboton .eventos {
+    margin-left: 1.51841%;
+    font-size: 0.875em;
+  }
+
+  .contieneboton .musica {
+    position: relative;
+    z-index: 32;
+    margin-left: 1.87394%;
+    font-size: 0.875em;
+  }
+
+  .contieneboton .videos {
+    position: relative;
+    z-index: 33;
+    margin-left: 0.00741%;
+    font-size: 0.875em;
+  }
+
+  .eventos {
+    height: 229px;
+  }
+
+  .eventos .text {
+    top: 113px;
+    bottom: auto;
+    left: 11.75%;
+    font-size: 3.75em;
+  }
+
+  .eventos .wrapper {
+    top: 0;
+    bottom: 0;
+    width: 32.5%;
+    height: 184px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .footer {
+    left: 0;
+    right: 0;
+    height: 41px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .footer .text {
+    top: -6px;
+    left: 9%;
+    font-style: normal;
+    font-size: 2em;
+  }
+
+  .inicio {
+    position: relative;
+    z-index: 6;
+    width: 80%;
+    height: 239px;
+    margin-top: 71px;
+    margin-left: 10%;
+  }
+
+  .inicio .foto {
+    top: auto;
+    bottom: auto;
+    height: 234px;
+    background-size: 500px auto;
+  }
+
+  .inicio .video {
+    position: relative;
+    float: right;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    z-index: 5;
+    width: 57.4999999999%;
+    height: 239px;
+  }
+
+  .musica {
+    position: relative;
+    z-index: 16;
+    height: 243px;
+  }
+
+  .musica .text {
+    bottom: 109px;
+    left: 10%;
+    font-size: 3.75em;
+  }
+
+  .separador1 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .separador2 {
+    position: relative;
+    z-index: 12;
+  }
+
+  .separador3 {
+    position: relative;
+    z-index: 17;
+  }
+
+  .separador4 {
+    position: relative;
+    z-index: 26;
+  }
+
+  .separador5 {
+    position: relative;
+    z-index: 37;
+    margin-top: 1721px;
+  }
+
+  .video .container {
+    position: relative;
+    z-index: 2;
+  }
+
+  .video .wrapper {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 86.9639065817%;
+    height: 122px;
+    margin: auto;
+  }
+
+  .videos {
+    position: relative;
+    z-index: 25;
+    height: 311px;
+  }
+
+  .videos .container-videos {
+    top: 0;
+    bottom: auto;
+    left: 15.25%;
+    width: 47.5%;
+    height: 310px;
+  }
+
+  .videos .text {
+    top: 116px;
+    right: 16.15%;
+    font-size: 3.75em;
+  }
+
+  .bio .text-4 {
+    font-size: 3.75em;
+  }
+
+  .bio-2 {
+    position: relative;
+    z-index: 11;
+  }
+
+  .container .text-2 {
+    left: 0;
+    right: auto;
+    width: 106.9378859426%;
+    font-size: 1em;
+  }
+
+  .container .text-5 {
+    top: 0;
+    bottom: 0;
+    left: -1.8388690956%;
+    height: 320px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 8px;
+  }
+
+  .container-videos .wrapper-5 {
+    top: 234px;
+  }
+
+  .container-videos .wrapper-6 {
+    top: 160px;
+  }
+
+  .container-videos .wrapper-7 {
+    top: 87px;
+  }
+
+  .container-videos .wrapper-8 {
+    top: 11px;
+  }
+
+  .eventos-2 {
+    position: relative;
+    z-index: 29;
+  }
+
+  .footer .container-1 {
+    top: 0;
+    bottom: 0;
+    left: 83%;
+    width: 8.25%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .footer .container-2 {
+    top: 0;
+    bottom: 0;
+    left: 76.75%;
+    width: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .footer .container-3 {
+    top: 0;
+    bottom: auto;
+    left: 62.7499999999%;
+    width: 7.75%;
+    height: 35px;
+  }
+
+  .footer .container-4 {
+    top: 0;
+    bottom: auto;
+    left: 70.5%;
+    width: 5.75%;
+    height: 41px;
+  }
+
+  .footer .container-5 {
+    top: 0;
+    bottom: auto;
+    left: 55.75%;
+    width: 7%;
+    height: 41px;
+  }
+
+  .musica .wrapper-2 {
+    bottom: 75px;
+    right: 60.5%;
+    width: 19.75%;
+    height: 42px;
+  }
+
+  .musica .wrapper-3 {
+    top: 0;
+    bottom: 0;
+    right: 9.95%;
+    width: 39.25%;
+    height: 196px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .video .text-3 {
+    top: 26px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 2em;
+  }
+
+  .videos .wrapper-4 {
+    top: 158px;
+    right: 18.25%;
+    width: 25.75%;
+    height: 43px;
+  }
+
+  .text a {
+    font-size: 0.714em;
+    color: #000000;
+  }
+
+  .text-1 strong {
+    font-style: inherit;
+    font-size: 0.375em;
+    font-weight: 700;
+  }
+
+  .text-2 span {
+    font-size: 1.25em;
+    color: #ffffff;
+  }
+
+  .text-3 strong {
+    font-size: 0.625em;
+    font-weight: 700;
+  }
+
+  .text-5 span {
+    font-size: 0.714em;
+  }
+
+  .text-5 strong {
+    font-size: 0.643em;
+    font-weight: inherit;
+  }
+}
