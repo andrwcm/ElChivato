@@ -22,7 +22,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 36;
+  z-index: 35;
   width: 100.09765625%;
   height: 72px;
   margin: 0 auto;
@@ -33,7 +33,7 @@ body {
   display: block;
   top: 9px;
   left: -0.0381097561%;
-  z-index: 47;
+  z-index: 46;
   width: 41px;
   height: auto;
   overflow: hidden;
@@ -43,7 +43,7 @@ body {
   display: block;
   top: 9px;
   left: 0.800304878%;
-  z-index: 43;
+  z-index: 42;
   width: 41px;
   height: auto;
   overflow: hidden;
@@ -53,7 +53,7 @@ body {
   display: block;
   top: 12px;
   left: 0;
-  z-index: 39;
+  z-index: 38;
   width: 41px;
   height: auto;
   overflow: hidden;
@@ -63,7 +63,7 @@ body {
   display: block;
   top: 9px;
   left: 0;
-  z-index: 45;
+  z-index: 44;
   width: 41px;
   height: auto;
   overflow: hidden;
@@ -73,7 +73,7 @@ body {
   display: block;
   top: 9px;
   left: 0.7621951219%;
-  z-index: 41;
+  z-index: 40;
   width: 41px;
   height: auto;
   overflow: hidden;
@@ -84,7 +84,7 @@ body {
   top: 0;
   bottom: 0;
   left: 10.0694444444%;
-  z-index: 23;
+  z-index: 22;
   width: 47.9166666666%;
   height: 410px;
   margin: auto 0;
@@ -100,7 +100,7 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 35;
+  z-index: 34;
   width: 52.6890243902%;
   height: 48px;
   margin: -54px 0 0 37.1620599999%;
@@ -134,7 +134,7 @@ body {
 
 .contieneboton .musica {
   display: block;
-  z-index: 32;
+  z-index: 31;
   width: 21.5455387107%;
   height: 26px;
   margin: 10px 0 0 1.88458%;
@@ -148,7 +148,7 @@ body {
 
 .contieneboton .videos {
   display: block;
-  z-index: 33;
+  z-index: 32;
   width: 21.5455387107%;
   height: 26px;
   margin: -26px 0 0 47.77081%;
@@ -168,7 +168,7 @@ body {
 .eventos .text {
   bottom: 165px;
   left: 0;
-  z-index: 27;
+  z-index: 26;
   width: 35.05859375%;
   min-height: 55px;
   font-size: 3.571em;
@@ -181,7 +181,7 @@ body {
   top: 0;
   bottom: 0;
   right: 15.2083333333%;
-  z-index: 28;
+  z-index: 27;
   width: 32.5694444444%;
   height: 410px;
   margin: auto 0;
@@ -193,7 +193,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 49;
+  z-index: 48;
   width: 100%;
   height: 65px;
   margin: 0 auto;
@@ -212,7 +212,7 @@ body {
 .footer .text {
   top: 21px;
   left: 9.9609375%;
-  z-index: 38;
+  z-index: 37;
   width: 46.8383789062%;
   min-height: 65px;
   font-size: 1.143em;
@@ -237,7 +237,7 @@ body {
 .icono {
   position: relative;
   float: left;
-  z-index: 30;
+  z-index: 29;
   width: 32.7153429465%;
   height: 68px;
   margin-left: 6.48347%;
@@ -328,7 +328,7 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 26;
+  z-index: 25;
   width: 100%;
   height: 69px;
   background-image: url('../images/SEPARADOR.png');
@@ -339,7 +339,7 @@ body {
 
 .separador5 {
   position: relative;
-  z-index: 37;
+  z-index: 36;
   width: 100%;
   height: 69px;
   margin: 2514px auto 0;
@@ -425,33 +425,33 @@ body {
 
 .container-1 {
   left: 84.8%;
-  z-index: 48;
+  z-index: 47;
 }
 
 .container-2 {
   left: 80.7952880859%;
-  z-index: 46;
+  z-index: 45;
 }
 
 .container-3 {
   left: 76.3671875%;
-  z-index: 44;
+  z-index: 43;
 }
 
 .container-4 {
   left: 72.36328125%;
-  z-index: 42;
+  z-index: 41;
 }
 
 .container-5 {
   left: 68.359375%;
-  z-index: 40;
+  z-index: 39;
 }
 
 .eventos-2 {
   position: relative;
   clear: both;
-  z-index: 29;
+  z-index: 28;
   width: 100%;
   height: 410px;
   background-image: url('../images/fondo-eventos.jpg');
@@ -511,7 +511,7 @@ body {
 }
 
 .videos-2 {
-  z-index: 25;
+  z-index: 24;
   width: 100%;
   height: 410px;
   background-image: url('../images/fondo-videos-2.jpg');
@@ -541,7 +541,7 @@ body {
 .wrapper-4 {
   top: 207px;
   right: -1.0208129883%;
-  z-index: 24;
+  z-index: 23;
   width: 36.5768432617%;
   height: 70px;
   overflow: hidden;
@@ -549,23 +549,17 @@ body {
 
 .wrapper-5 {
   top: 225px;
-  left: 53.924365942%;
-  z-index: 22;
-}
-
-.wrapper-6 {
-  top: 225px;
   left: 8.9560688405%;
   z-index: 21;
 }
 
-.wrapper-7 {
+.wrapper-6 {
   top: 50px;
   left: 53.8949275362%;
   z-index: 20;
 }
 
-.wrapper-8 {
+.wrapper-7 {
   top: 50px;
   left: 8.9560688405%;
   z-index: 19;
@@ -583,6 +577,7 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   background-color: transparent;
+  text-shadow: none;
   font-family: inherit;
   font-style: inherit;
   font-size: 1.071em;
@@ -610,6 +605,7 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   background-color: transparent;
+  text-shadow: none;
   font-family: inherit;
   font-style: inherit;
   font-size: inherit;
@@ -637,6 +633,7 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   background-color: transparent;
+  text-shadow: none;
   font-family: inherit;
   font-style: inherit;
   text-transform: inherit;
@@ -673,6 +670,7 @@ body {
 }
 
 .text-1 strong {
+  text-shadow: none;
   font-style: normal;
   font-size: 0.938em;
   font-weight: inherit;
@@ -699,6 +697,7 @@ body {
 }
 
 .text-5 strong {
+  text-shadow: none;
   font-style: inherit;
   font-size: 1.071em;
   font-weight: 700;
@@ -731,14 +730,14 @@ body {
 
   .botones .contieneboton {
     position: relative;
-    z-index: 35;
+    z-index: 34;
     margin-left: 37.16293%;
   }
 
   .botones .icono {
     position: relative;
-    z-index: 30;
-    margin-left: 6.48195%;
+    z-index: 29;
+    margin-left: 6.47935%;
   }
 
   .container .deezer,
@@ -751,26 +750,30 @@ body {
 
   .container-videos .wrapper {
     width: 48.1335952848%;
+    height: 132px;
   }
 
   .contieneboton .bio {
-    margin-left: 2.80219%;
+    margin-left: 2.79479%;
   }
 
   .contieneboton .eventos {
-    margin-left: 70.83498%;
+    margin-top: 10px;
+    margin-left: 1.52084%;
   }
 
   .contieneboton .musica {
     position: relative;
-    z-index: 32;
-    margin-left: 1.88376%;
+    z-index: 31;
+    margin-left: 1.8813%;
   }
 
   .contieneboton .videos {
     position: relative;
-    z-index: 33;
-    margin-left: 47.77059%;
+    clear: none;
+    z-index: 32;
+    margin-top: 10px;
+    margin-left: 0.00247%;
   }
 
   .eventos .wrapper {
@@ -824,12 +827,12 @@ body {
 
   .separador4 {
     position: relative;
-    z-index: 26;
+    z-index: 25;
   }
 
   .separador5 {
     position: relative;
-    z-index: 37;
+    z-index: 36;
   }
 
   .video .text {
@@ -841,7 +844,7 @@ body {
 
   .videos {
     position: relative;
-    z-index: 25;
+    z-index: 24;
   }
 
   .videos .container-videos {
@@ -872,29 +875,23 @@ body {
     bottom: 0;
     left: -1.6357646338%;
     width: 100%;
+    height: 352px;
     margin-top: auto;
     margin-bottom: auto;
   }
 
-  .container-videos .wrapper-5 {
+  .container-videos .wrapper-6 {
     left: 67.7799607072%;
-    height: 133px;
   }
 
+  .container-videos .wrapper-5,
   .container-videos .wrapper-7 {
-    left: 67.7799607072%;
-    height: 132px;
-  }
-
-  .container-videos .wrapper-6,
-  .container-videos .wrapper-8 {
     left: 15.7170923379%;
-    height: 132px;
   }
 
   .eventos-2 {
     position: relative;
-    z-index: 29;
+    z-index: 28;
   }
 
   .footer .container-2 {
@@ -927,8 +924,14 @@ body {
     width: 31.4166666666%;
   }
 
-  .text a,
+  .text a {
+    text-transform: none;
+    text-decoration: none;
+  }
+
   .text-5 span {
+    font-size: 0.929em;
+    font-weight: inherit;
     text-transform: none;
     text-decoration: none;
   }
@@ -956,12 +959,12 @@ body {
 
   .botones .contieneboton {
     position: relative;
-    z-index: 35;
+    z-index: 34;
   }
 
   .botones .icono {
     position: relative;
-    z-index: 30;
+    z-index: 29;
     margin-left: 6.48%;
   }
 
@@ -978,21 +981,18 @@ body {
   }
 
   .contieneboton .eventos {
-    margin-top: 10px;
-    margin-left: 1.5220499999%;
+    margin-left: 1.51835%;
   }
 
   .contieneboton .musica {
     position: relative;
-    z-index: 32;
+    z-index: 31;
     margin-left: 1.88498%;
   }
 
   .contieneboton .videos {
     position: relative;
-    clear: none;
-    z-index: 33;
-    margin-top: 10px;
+    z-index: 32;
     margin-left: 0;
   }
 
@@ -1034,12 +1034,12 @@ body {
 
   .separador4 {
     position: relative;
-    z-index: 26;
+    z-index: 25;
   }
 
   .separador5 {
     position: relative;
-    z-index: 37;
+    z-index: 36;
   }
 
   .video .text {
@@ -1051,7 +1051,7 @@ body {
 
   .videos {
     position: relative;
-    z-index: 25;
+    z-index: 24;
   }
 
   .videos .container-videos {
@@ -1078,38 +1078,31 @@ body {
   }
 
   .container .text-5 {
-    top: 0;
-    bottom: 0;
-    left: -1.6377427882%;
-    margin-top: auto;
-    margin-bottom: auto;
+    top: -87px;
+    bottom: auto;
+    left: -0.1692971438%;
+    width: 99.9617716126%;
   }
 
   .container-videos .wrapper-5 {
-    top: 192px;
-    left: 59.2391304347%;
-    width: 55.9782608695%;
-  }
-
-  .container-videos .wrapper-6 {
     top: 192px;
     left: 0;
     width: 55.7065217391%;
   }
 
-  .container-videos .wrapper-7 {
+  .container-videos .wrapper-6 {
     left: 59.1304347826%;
     width: 55.9782608695%;
   }
 
-  .container-videos .wrapper-8 {
+  .container-videos .wrapper-7 {
     left: 0;
     width: 55.7065217391%;
   }
 
   .eventos-2 {
     position: relative;
-    z-index: 29;
+    z-index: 28;
   }
 
   .videos .wrapper-4 {
@@ -1118,7 +1111,6 @@ body {
   }
 
   .text a,
-  .text-5 span,
   .text-5 strong {
     font-size: 0.929em;
   }
@@ -1126,6 +1118,10 @@ body {
   .text-2 span {
     font-size: 1.875em;
     color: rgb(255, 255, 255);
+  }
+
+  .text-5 span {
+    font-weight: 700;
   }
 }
 
@@ -1154,7 +1150,7 @@ body {
   .botones .contieneboton {
     position: relative;
     clear: none;
-    z-index: 35;
+    z-index: 34;
     margin-top: 14px;
   }
 
@@ -1200,9 +1196,8 @@ body {
   }
 
   .container-videos .wrapper {
-    left: 7.8947368421%;
-    width: 52.6315789473%;
-    height: 67px;
+    width: 60.5263157894%;
+    height: 77px;
   }
 
   .contieneboton .bio {
@@ -1217,14 +1212,14 @@ body {
 
   .contieneboton .musica {
     position: relative;
-    z-index: 32;
+    z-index: 31;
     margin-left: 1.87394%;
     font-size: 0.875em;
   }
 
   .contieneboton .videos {
     position: relative;
-    z-index: 33;
+    z-index: 32;
     margin-left: 0.00741%;
     font-size: 0.875em;
   }
@@ -1320,12 +1315,12 @@ body {
 
   .separador4 {
     position: relative;
-    z-index: 26;
+    z-index: 25;
   }
 
   .separador5 {
     position: relative;
-    z-index: 37;
+    z-index: 36;
     margin-top: 1721px;
   }
 
@@ -1346,7 +1341,7 @@ body {
 
   .videos {
     position: relative;
-    z-index: 25;
+    z-index: 24;
     height: 311px;
   }
 
@@ -1381,34 +1376,29 @@ body {
   }
 
   .container .text-5 {
-    top: 0;
-    bottom: 0;
-    left: -1.8388690956%;
-    height: 320px;
-    margin-top: auto;
-    margin-bottom: auto;
+    top: -55px;
+    left: -1.8987341773%;
+    width: 100%;
+    height: 317px;
     font-size: 8px;
   }
 
   .container-videos .wrapper-5 {
-    top: 234px;
+    top: 210px;
   }
 
   .container-videos .wrapper-6 {
-    top: 160px;
+    top: 116px;
+    left: 0;
   }
 
   .container-videos .wrapper-7 {
-    top: 87px;
-  }
-
-  .container-videos .wrapper-8 {
-    top: 11px;
+    top: 20px;
   }
 
   .eventos-2 {
     position: relative;
-    z-index: 29;
+    z-index: 28;
   }
 
   .footer .container-1 {

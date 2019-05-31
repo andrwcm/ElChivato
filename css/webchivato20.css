@@ -1,0 +1,626 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 0.875em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.bio {
+  position: absolute;
+  top: 612px;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.bio-2 {
+  float: left;
+  width: 100%;
+  height: 848px;
+  background-image: url('../images/WEBCHIVATO2.0-1440-08,1.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center top;
+}
+
+.botones {
+  position: fixed;
+  top: 160px;
+  left: 0;
+  z-index: 22;
+  width: 15.9722222222%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.container {
+  float: left;
+  width: 31.2555555555%;
+  height: 48px;
+  margin-left: 11.94336%;
+}
+
+.container-videos {
+  position: absolute;
+  top: 271px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  width: 66.1111111111%;
+  height: 271px;
+  margin: 0 auto;
+}
+
+.container-videos .wrapper {
+  position: absolute;
+  top: 0;
+  width: 43.4873949579%;
+  height: 247px;
+  overflow: hidden;
+}
+
+.deezer {
+  float: left;
+  width: 3.3713107638%;
+  height: 48px;
+  margin-left: 1.15343%;
+  background-image: url('../images/redes-07(5)-41x41.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.divfooter {
+  position: fixed;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  z-index: 30;
+  width: 100%;
+  height: 48px;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-color: rgb(222, 222, 222);
+}
+
+.eventos {
+  position: absolute;
+  top: 3265px;
+  left: 0;
+  z-index: 14;
+  width: 100%;
+  height: 859px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.eventos .element {
+  z-index: 12;
+  height: 859px;
+  background-image: url('../images/WEBCHIVATO2.0-1440-10(2).jpg');
+  background-size: cover;
+  background-position: left top;
+}
+
+.eventos .wrapper {
+  position: absolute;
+  top: 290px;
+  right: 15.2083333333%;
+  z-index: 13;
+  width: 33.9583333333%;
+  height: 500px;
+  overflow: scroll;
+}
+
+.fb {
+  float: left;
+  width: 3.3722222222%;
+  height: 48px;
+  margin-left: 14.39996%;
+  background-image: url('../images/redes-03(6)-41x41.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.ig {
+  float: left;
+  width: 3.3713107638%;
+  height: 48px;
+  margin-left: 1.2793%;
+  background-image: url('../images/redes-04(5)-41x41.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.intro {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  z-index: 16;
+  width: 100%;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.intro .wrapper {
+  float: left;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+
+.logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 17;
+  width: 100%;
+  height: 90px;
+  background: url('../images/logo-logo.png') rgb(0, 0, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+.musica {
+  position: absolute;
+  top: 1454px;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.musica .element {
+  z-index: 2;
+  height: 958px;
+  background-image: url('../images/WEBCHIVATO2.0-1440-09,1.jpg');
+  background-size: contain;
+  background-position: center top;
+}
+
+.musica .wrapper {
+  position: absolute;
+}
+
+.spotify {
+  float: left;
+  width: 3.3713107638%;
+  height: 48px;
+  margin-left: 1.25%;
+  background-image: url('../images/redes-06(5)-41x41.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.text {
+  float: left;
+  width: 96.6498871723%;
+  min-height: 48px;
+  margin-left: 3.34317%;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+
+.videos {
+  position: absolute;
+  top: 2406px;
+  left: 0;
+  right: 0;
+  z-index: 11;
+  width: 100%;
+  height: 859px;
+  margin: 0 auto;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.videos .element {
+  z-index: 6;
+  height: 859px;
+  background-image: url('../images/WEBCHIVATO2.0-1440-09(2).jpg');
+  background-size: cover;
+  background-position: center top;
+}
+
+.yt {
+  float: left;
+  width: 3.3713107638%;
+  height: 48px;
+  margin-left: 1.00369%;
+  background-image: url('../images/redes-05(5)-41x41.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._button {
+  display: block;
+  float: left;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 3px;
+  background-color: rgb(0, 0, 0);
+  font-size: 2.857em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:active,
+._button:focus,
+._button:hover {
+  background-color: rgb(91, 24, 24);
+}
+
+.wrapper-3 {
+  position: absolute;
+  top: 149px;
+  right: 53.1944444444%;
+  z-index: 10;
+  width: 14.3749999999%;
+  height: 83px;
+  overflow: hidden;
+}
+
+.wrapper-4 {
+  right: 48.8655462184%;
+  z-index: 8;
+}
+
+.wrapper-5 {
+  left: 56.7310924369%;
+  z-index: 7;
+}
+
+.wrapper-6 {
+  top: 155px;
+  left: 49.1666666666%;
+  z-index: 4;
+  width: 20.0694444444%;
+  height: 73px;
+  overflow: hidden;
+}
+
+.wrapper-7 {
+  top: 263px;
+  right: 15.4388888888%;
+  z-index: 3;
+  width: 47.3611111111%;
+  height: 400px;
+  overflow: scroll;
+}
+
+.botones ._button-1 {
+  margin: -7px 0 0 -5.77446%;
+}
+
+.botones ._button-2 {
+  clear: both;
+  margin: 7px 0 0 -5.77446%;
+}
+
+.botones ._button-3 {
+  clear: both;
+  margin: 7px 0 0 -5.78125%;
+}
+
+.botones ._button-4 {
+  clear: both;
+  margin: 8px 0 0 -5.77446%;
+}
+
+@media(max-width: 1200px) {
+  body {
+    font-size: 0.813em;
+  }
+
+  .bio .bio-2 {
+    height: 473px;
+  }
+
+  .container .text {
+    font-size: 13px;
+  }
+
+  .divfooter,
+  .videos .container-videos {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .divfooter .container {
+    margin-left: 11.94271%;
+  }
+
+  .divfooter .deezer {
+    margin-left: 1.15234%;
+  }
+
+  .divfooter .fb {
+    margin-left: 14.39974%;
+  }
+
+  .divfooter .ig {
+    margin-left: 1.27865%;
+  }
+
+  .divfooter .yt {
+    margin-left: 1.0026%;
+  }
+
+  .eventos {
+    top: 2965px;
+  }
+
+  .eventos .element {
+    position: relative;
+    z-index: 12;
+    height: 610px;
+  }
+
+  .eventos .wrapper {
+    top: 183px;
+    right: 12.625%;
+    width: 34%;
+    height: 391px;
+  }
+
+  .musica {
+    top: 1317px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .musica .element {
+    position: relative;
+    z-index: 2;
+    height: 794px;
+  }
+
+  .videos {
+    top: 2111px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos .element {
+    position: relative;
+    z-index: 6;
+    height: 532px;
+  }
+
+  .botones ._button {
+    font-size: 2.692em;
+  }
+
+  .musica .wrapper-7 {
+    right: 15.375%;
+    width: 47.375%;
+    height: 227px;
+  }
+
+  .videos .wrapper-3 {
+    top: 142px;
+    right: 53.6510416666%;
+  }
+}
+
+@media(max-width: 800px) {
+  .divfooter,
+  .videos .container-videos {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .divfooter .container {
+    margin-left: 11.94336%;
+  }
+
+  .divfooter .fb {
+    margin-left: 14.39844%;
+  }
+
+  .divfooter .ig {
+    margin-left: 1.2793%;
+  }
+
+  .divfooter .yt {
+    margin-left: 1.0019499999%;
+  }
+
+  .eventos {
+    top: 2148px;
+    height: auto;
+  }
+
+  .eventos .element {
+    position: relative;
+    z-index: 12;
+    background-size: contain;
+  }
+
+  .musica {
+    top: 1085px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .musica .element {
+    position: relative;
+    z-index: 2;
+    height: 531px;
+  }
+
+  .videos {
+    top: 1616px;
+    left: 0;
+    right: 0;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos .element {
+    position: relative;
+    z-index: 6;
+    background-size: contain;
+  }
+
+  .botones ._button {
+    font-size: 1.538em;
+  }
+
+  .videos .wrapper-3 {
+    top: 65px;
+    right: 52.318359375%;
+  }
+}
+
+@media(max-width: 400px) {
+  body {
+    font-size: 0.5em;
+  }
+
+  .bio .bio-2 {
+    height: 243px;
+  }
+
+  .botones {
+    width: 56%;
+  }
+
+  .container .text {
+    width: 100%;
+    font-size: 8px;
+  }
+
+  .container-videos .wrapper {
+    height: 161px;
+  }
+
+  .divfooter {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .divfooter .container {
+    height: auto;
+    margin-left: 11.94141%;
+  }
+
+  .divfooter .ig {
+    margin-left: 1.27734%;
+  }
+
+  .divfooter .yt {
+    margin-left: 1%;
+  }
+
+  .eventos {
+    top: 1377px;
+  }
+
+  .eventos .element {
+    position: relative;
+    z-index: 12;
+    height: 305px;
+  }
+
+  .eventos .wrapper {
+    top: 93px;
+    right: 13.25%;
+    width: 41.5%;
+    height: 189px;
+  }
+
+  .musica {
+    top: 849px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .musica .element {
+    position: relative;
+    z-index: 2;
+    height: 266px;
+  }
+
+  .videos {
+    top: 1110px;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos .container-videos {
+    top: 90px;
+    left: 0;
+    right: 0;
+    width: 66%;
+    height: 156px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .videos .element {
+    position: relative;
+    z-index: 6;
+    height: 267px;
+  }
+
+  .botones ._button {
+    font-size: 1.25em;
+  }
+
+  .container-videos .wrapper-4 {
+    right: 55.6818181818%;
+    width: 51.5151515151%;
+  }
+
+  .container-videos .wrapper-5 {
+    left: 56.8181818181%;
+    width: 53.7878787878%;
+  }
+
+  .musica .wrapper-6 {
+    top: 23px;
+    left: 43.1999999999%;
+  }
+
+  .musica .wrapper-7 {
+    top: 114px;
+    right: 10.25%;
+    width: 47.25%;
+    height: 127px;
+  }
+
+  .videos .wrapper-3 {
+    top: 33px;
+    right: 43.2%;
+    width: 24.25%;
+    height: 45px;
+  }
+}
